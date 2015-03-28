@@ -1,0 +1,12 @@
+C:\Users\Janak\Documents\Visual Studio 2013\Projects\XAMARIN\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample\bin\Debug\XamarinSqliteSample.dll
+C:\Users\Janak\Documents\Visual Studio 2013\Projects\XAMARIN\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample\bin\Debug\XamarinSqliteSample.pdb
+C:\Users\Janak\Documents\Visual Studio 2013\Projects\XAMARIN\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample\bin\Debug\SQLite.Net.dll
+C:\Users\Janak\Documents\Visual Studio 2013\Projects\XAMARIN\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Janak\Documents\Visual Studio 2013\Projects\XAMARIN\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Janak\Documents\Visual Studio 2013\Projects\XAMARIN\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Janak\Documents\Visual Studio 2013\Projects\XAMARIN\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Janak\Documents\Visual Studio 2013\Projects\XAMARIN\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample\obj\Debug\Register.xaml.g.cs
+C:\Users\Janak\Documents\Visual Studio 2013\Projects\XAMARIN\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample\obj\Debug\StudentList.xaml.g.cs
+C:\Users\Janak\Documents\Visual Studio 2013\Projects\XAMARIN\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample\obj\Debug\XamarinSqliteSample.dll
+C:\Users\Janak\Documents\Visual Studio 2013\Projects\XAMARIN\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample\obj\Debug\XamarinSqliteSample.pdb
+C:\Users\Janak\Documents\Visual Studio 2013\Projects\XAMARIN\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample\obj\Debug\XamarinSqliteSample.csprojResolveAssemblyReference.cache

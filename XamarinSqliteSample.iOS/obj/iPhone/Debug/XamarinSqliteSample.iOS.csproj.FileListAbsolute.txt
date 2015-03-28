@@ -1,0 +1,14 @@
+C:\Users\Janak\documents\visual studio 2013\Projects\Xamarin\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample.iOS\bin\iPhone\Debug\XamarinSqliteSampleiOS.exe
+C:\Users\Janak\documents\visual studio 2013\Projects\Xamarin\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample.iOS\bin\iPhone\Debug\XamarinSqliteSampleiOS.pdb
+C:\Users\Janak\documents\visual studio 2013\Projects\Xamarin\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\Janak\documents\visual studio 2013\Projects\Xamarin\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Janak\documents\visual studio 2013\Projects\Xamarin\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Janak\documents\visual studio 2013\Projects\Xamarin\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample.iOS\bin\iPhone\Debug\XamarinSqliteSample.dll
+C:\Users\Janak\documents\visual studio 2013\Projects\Xamarin\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample.iOS\bin\iPhone\Debug\SQLite.Net.dll
+C:\Users\Janak\documents\visual studio 2013\Projects\Xamarin\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample.iOS\bin\iPhone\Debug\XamarinSqliteSample.pdb
+C:\Users\Janak\documents\visual studio 2013\Projects\Xamarin\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+C:\Users\Janak\documents\visual studio 2013\Projects\Xamarin\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Janak\documents\visual studio 2013\Projects\Xamarin\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample.iOS\obj\iPhone\Debug\
+C:\Users\Janak\documents\visual studio 2013\Projects\Xamarin\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample.iOS\obj\iPhone\Debug\XamarinSqliteSample.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Janak\documents\visual studio 2013\Projects\Xamarin\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample.iOS\obj\iPhone\Debug\XamarinSqliteSampleiOS.exe
+C:\Users\Janak\documents\visual studio 2013\Projects\Xamarin\XamarinSqliteSample\XamarinSqliteSample\XamarinSqliteSample.iOS\obj\iPhone\Debug\XamarinSqliteSampleiOS.pdb

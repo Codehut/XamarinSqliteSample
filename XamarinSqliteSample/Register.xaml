@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinSqliteSample.Register" Title="Enter Student Detail">
+  <StackLayout>
+    <Label Text="Name"/>
+    <Entry x:Name="name" Placeholder="Enter name"/>
+    <Label Text="Address"/>
+    <Entry x:Name="address" Placeholder="Enter address"/>
+    <Label Text="Phone no."/>
+    <Entry x:Name="phone" Placeholder="Enter phone no."/>
+    <Button Text="Add" Clicked="adddata"/>
+  <Button Text="Show" Clicked="Showdata"/>
+</StackLayout>
+</ContentPage>
