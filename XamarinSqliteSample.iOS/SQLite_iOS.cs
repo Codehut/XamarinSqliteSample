@@ -6,7 +6,7 @@ using System.IO;
 [assembly:Dependency(typeof(SQLite_iOS))]
 namespace XamarinSqliteSample.iOS
 {
-    public class SQLite_iOS
+    public class SQLite_iOS: ISQLite
     {
         public SQLite.Net.SQLiteConnection GetConnection ()
         {
